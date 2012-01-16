@@ -15,4 +15,4 @@ Subtitle
 
 lorem ipsum 
 
-[Discuss this post on Hacker News](http://news.ycombinator.com/item?id=3267432)
+[Discuss this post on Hacker News](http://news.ycombinator.com/item?id=ooo)
