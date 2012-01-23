@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How 'Derive scope from Goal' helped my client to choose a non-technical solution
+title: How 'Derive scope from Goal' helped my client
 tags:
 - agile
 - articles
