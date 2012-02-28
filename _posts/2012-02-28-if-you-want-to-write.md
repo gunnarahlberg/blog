@@ -13,7 +13,7 @@ It's about how well the story is told. A child story is a good example that the 
 
 The book will not teach you the mechanics or tools that are required. And that's a point by the author - writing is not about the tools you use. How I've procrastinated on that! So much time can be spent on thinking about various moleskins, papers, typewriters, fonts and typesetting, spell checkers. 
 
-If you want to read it, it's only less than hundred pages and could probably be read under an hour. Or, as I did, with extensive pauses between the very thoughtful, real life based examples on how to write and also live a full life. Try it, it has really helped me.
+If you want to read it, it's only less than hundred pages and could probably be read under an hour. Or, as I did, with extensive pauses between the very thoughtful, real life based examples on how to write and also live a full life. Try it, it has already helped me.
 
 
 
