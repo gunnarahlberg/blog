@@ -21,8 +21,6 @@ Sizes
 * large - the task is too big. It has to be split in smaller stories.
 
 That's all! No time is spent on waste like "he / she could do this in an hour" - sure they can. But that's is not relevant. What is relevant is "to satisfy the customer
-through early and continuous delivery of valuable software" (from the agile manifesto)
-
-[agilemanifesto]: http://agilemanifesto.org/principles.html
+through early and continuous delivery of valuable software" (from the agile manifesto) and we want to know when the custorm 
 
 So lets se
