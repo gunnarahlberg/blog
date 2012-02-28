@@ -7,12 +7,13 @@ layout: post
 
 <p class="meta">Published {{ page.date | date : "%Y-%m-%d" }}</span> - Zanzibar</p>
 
-So, the other day I got a long list of books to read from circle of friends. We collected titles togehter on a maillist and the conversation abruptly swayed from "Blink" to "Clean Code" and so on. Most of the titles were ones that I had heard of and some that I've read. And some interesting titles that I never heard of, one was "If you want to write" by Brenda Ueland.
+The book "If you want to write" by Brenda Ueland was recommended to me by a good friend at the company I work for. And I'm so grateful for that, thank you Jannilla ! I'm at lost of words on this book. It's so tightly written, less than hundred pages yet full of interesting discussion on various topics. The best part is how Brenda really fuels the energy into me as a reader and a writer. Just let it out, write, scribble, type. 
 
-I'm at lost of words on this book. It's so tightly written, less than hundred pages yet full of interesting discussion on various topics. The best part is how Brenda really fuels the energy into me as a reader and a writer. Just let it out, write, scribble, type. 
+It's about how well the story is told. A child story is a good example that the book describe. A child will listen to a story as long as the story is well told. The same is true for any writing. A reader will not pay attention unless the story is well told. If the meaning, subtext, moral or anything that is a statement of how something ought to be done is spelled out in great detail, then the writer is maybe not thinking about and respecting the readers attention. The author that tells exactly what the reader should think will probably not be such a great author. 
 
-The book really thinks that most of us can be an excellent author, at the end there is even lackmus test, black and white, if you can do this, then you can be an excellent author. And it's not about the way you put the words, like, when you write an article on a topic that emphasise the important stuff in the beginning and so on. 
+The book will not teach you the mechanics or tools that are required. And that's a point by the author - writing is not about the tools you use. How I've procrastinated on that! So much time can be spent on thinking about various moleskins, papers, typewriters, fonts and typesetting, spell checkers. 
 
-It's not about the tools you use. How I've procastinated on that! So much time can be spent on thinking about various moleskins, papers, typewriters. Or the tools you chose to plan the work. 
+If you want to read it, it's only less than hundred pages and could probably be read under an hour. Or, as I did, with extensive pauses between the very thoughtful, real life based examples on how to write and also live a full life. Try it, it has really helped me.
 
-It's about how you tell a story. And most of us can tell a story. Most of us can tell a child a story and the child will listen. That means we are able to tell a story.
+
+
