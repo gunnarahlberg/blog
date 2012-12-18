@@ -27,11 +27,28 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+
   margin-bottom: 1em;
+}
+h2 {
+    font-size:48px;
+    text-align: start;
+}
+div#maincontent h3 {
+    margin-bottom: 5px;
+}
+ h1, h2, h3, h4 {
+    font-family: 'ITC Franklin Condensed',"Helvetica Neue",Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    line-height: 1.1em;
+    margin: 36px 0 18px;
+    text-transform: uppercase;
 }
 
 p {
-  margin: 1em 0;
+   font: 24px/1.6 Georgia,"times new roman",times,serif;
+    margin-bottom: 25px;
+
 }
 
 a {
@@ -81,7 +98,7 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 40em;
+  width: 60em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
