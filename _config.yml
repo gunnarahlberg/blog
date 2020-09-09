@@ -1,2 +1,4 @@
 markdown: kramdown
 pygments: true
+
+theme: jekyll-theme-minimal
